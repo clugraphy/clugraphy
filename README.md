@@ -24,3 +24,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/clugraphy)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/clugraphy)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ceverything.studio) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ethereum.svg' alt='ethereum' height='40'>](clugraphy.eth)  
+
+<a href="https://app.daily.dev/clugraphy"><img src="https://api.daily.dev/devcards/v2/uU5Bc02IXj3ZigYBYZr4U.png?r=5wm" width="356" alt="Catalin Stroe's Dev Card"/></a>
